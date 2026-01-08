@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/cograder.png" alt="CoGrader Logo" width="200">
+  <img src="../assets/images/cograder.png" alt="CoGrader Logo" width="200">
 </div>
 
 Welcome to **CoGrader** — where AI meets education (and saves teachers from endless grading 😅).
